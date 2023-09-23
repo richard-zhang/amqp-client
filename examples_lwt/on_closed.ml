@@ -1,4 +1,4 @@
-open Amqp_client_async
+open Amqp_client_lwt
 open Thread
 
 (* Demonstrate how on_close can be used *)
