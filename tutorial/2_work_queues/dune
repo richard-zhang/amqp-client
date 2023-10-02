@@ -1,0 +1,4 @@
+(executables
+ (names new_task worker)
+ (libraries amqp-client-lwt)
+)
