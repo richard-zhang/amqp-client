@@ -1,0 +1,4 @@
+(executables
+ (names send receive)
+ (libraries amqp-client-lwt)
+)
