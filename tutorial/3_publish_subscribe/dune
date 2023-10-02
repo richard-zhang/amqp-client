@@ -1,0 +1,4 @@
+(executables
+ (names emit_log receive_logs)
+ (libraries amqp-client-lwt)
+)
